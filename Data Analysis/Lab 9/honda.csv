@@ -1,0 +1,983 @@
+Model,Year,Kilometers,Fuel_Type,Price
+Honda Accord 2.4 AT,2009,101867, Petrol ,2900
+Honda Accord 2.4 AT,2009,97241, Petrol ,3000
+Honda Accord 2.4 AT,2009,64533, Petrol ,3200
+Honda Accord 2.4 AT,2009,63000, Petrol ,3300
+Honda Accord 2.4 AT,2010,100000, Petrol ,3100
+Honda Accord 2.4 AT,2010,100000, Petrol ,3150
+Honda Accord 2.4 AT,2010,82000, Petrol ,3300
+Honda Accord 2.4 AT,2010,67000, Petrol ,3500
+Honda Accord 2.4 AT,2010,60000, Petrol ,3550
+Honda Accord 2.4 AT,2010,58000, Petrol ,3600
+Honda Accord 2.4 AT,2010,50000, Petrol ,4000
+Honda Accord 2.4 AT,2011,67507, Petrol ,5000
+Honda Accord 2.4 AT,2011,39000, Petrol ,5500
+Honda Amaze S Petrol,2007,130000, Petrol ,2000
+Honda Amaze S Petrol,2013,71644, Petrol ,5000
+Honda Amaze S Petrol,2013,48000, Petrol ,2450
+Honda Amaze S Petrol,2013,36455, Petrol ,4450
+Honda Amaze S Petrol,2013,25025, Petrol ,4150
+Honda Amaze S Petrol,2014,138942, Petrol ,2500
+Honda Amaze S Petrol,2014,117000, Petrol ,2800
+Honda Amaze S Petrol,2014,87401, Petrol ,3100
+Honda Amaze S Petrol,2014,74000, Petrol ,3890
+Honda Amaze S Petrol,2014,60000, Petrol ,4350
+Honda Amaze S Petrol,2014,55688, Petrol ,3800
+Honda Amaze S Petrol,2014,54955, Petrol ,4650
+Honda Amaze S Petrol,2014,44688, Petrol ,4500
+Honda Amaze S Petrol,2014,40748, Petrol ,3700
+Honda Amaze S Petrol,2014,35200, Petrol ,3700
+Honda Amaze S Petrol,2014,30692, Petrol ,3950
+Honda Amaze S Petrol,2014,20663, Petrol ,4250
+Honda Amaze S Petrol,2014,17815, Petrol ,4500
+Honda Amaze S Petrol,2015,126637, Petrol ,3000
+Honda Amaze S Petrol,2015,88000, Petrol ,4490
+Honda Amaze S Petrol,2015,86000, Petrol ,4300
+Honda Amaze S Petrol,2015,81000, Petrol ,3930
+Honda Amaze S Petrol,2015,71561, Petrol ,3800
+Honda Amaze S Petrol,2015,65041, Petrol ,4090
+Honda Amaze S Petrol,2015,64183, Petrol ,3560
+Honda Amaze S Petrol,2015,61314, Petrol ,5060
+Honda Amaze S Petrol,2015,56616, Petrol ,3990
+Honda Amaze S Petrol,2015,46067, Petrol ,4750
+Honda Amaze S Petrol,2015,31135, Petrol ,4800
+Honda Amaze S Petrol,2015,31111, Petrol ,4000
+Honda Amaze S Petrol,2015,30041, Petrol ,4800
+Honda Amaze S Petrol,2015,19673, Petrol ,3500
+Honda Amaze S Petrol,2016,88008, Petrol ,4800
+Honda Amaze S Petrol,2016,73494, Petrol ,4230
+Honda Amaze S Petrol,2016,70000, Petrol ,3000
+Honda Amaze S Petrol,2016,60000, Petrol ,4590
+Honda Amaze S Petrol,2016,60000, Petrol ,4100
+Honda Amaze S Petrol,2016,57571, Petrol ,4150
+Honda Amaze S Petrol,2016,55000, Petrol ,4250
+Honda Amaze S Petrol,2016,51179, Petrol ,6000
+Honda Amaze S Petrol,2016,43987, Petrol ,3920
+Honda Amaze S Petrol,2016,40831, Petrol ,4500
+Honda Amaze S Petrol,2016,33397, Petrol ,3590
+Honda Amaze S Petrol,2016,31500, Petrol ,4250
+Honda Amaze S Petrol,2016,31500, Petrol ,4250
+Honda Amaze S Petrol,2017,94423, Petrol ,3150
+Honda Amaze S Petrol,2017,45556, Petrol ,5000
+Honda Amaze S Petrol,2017,42644, Petrol ,4360
+Honda Amaze S Petrol,2017,39735, Petrol ,5100
+Honda Amaze S Petrol,2017,39735, Petrol ,5100
+Honda Amaze S Petrol,2017,34721, Petrol ,5500
+Honda Amaze S Petrol,2017,30000, Petrol ,5000
+Honda Amaze S Petrol,2017,30000, Petrol ,4500
+Honda Amaze S Petrol,2017,30000, Petrol ,4500
+Honda Amaze S Petrol,2017,25086, Petrol ,5680
+Honda Amaze S Petrol,2017,23239, Petrol ,4500
+Honda Amaze S Petrol,2017,21000, Petrol ,4990
+Honda Amaze S Petrol,2017,17000, Petrol ,5750
+Honda Amaze S Petrol,2018,72578, Petrol ,6140
+Honda Amaze S Petrol,2018,60000, Petrol ,5500
+Honda Amaze S Petrol,2018,43326, Petrol ,4850
+Honda Amaze S Petrol,2018,43326, Petrol ,4850
+Honda Amaze S Petrol,2018,43326, Petrol ,4850
+Honda Amaze S Petrol,2019,110785, Petrol ,5500
+Honda Amaze S Petrol,2019,87000, Petrol ,6500
+Honda Amaze S Petrol,2019,41000, Petrol ,6090
+Honda Amaze S Petrol,2019,35000, Petrol ,6280
+Honda Amaze S Petrol,2019,34876, Petrol ,6650
+Honda Amaze S Petrol,2019,30000, Petrol ,6990
+Honda Amaze S Petrol,2019,29461, Petrol ,5500
+Honda Amaze S Petrol,2019,22000, Petrol ,6000
+Honda Amaze S Petrol,2019,21744, Petrol ,5500
+Honda Amaze S Petrol,2019,20121, Petrol ,6140
+Honda Amaze S Petrol,2019,13106, Petrol ,6000
+Honda Amaze S Petrol,2019,11000, Petrol ,7450
+Honda Amaze S Petrol,2020,60714, Petrol ,6900
+Honda Amaze S Petrol,2020,60714, Petrol ,6900
+Honda Amaze S Petrol,2020,52771, Petrol ,5850
+Honda Amaze S Petrol,2020,32093, Petrol ,5600
+Honda Amaze S Petrol,2020,30405, Petrol ,6500
+Honda Amaze S Petrol,2020,27500, Petrol ,8750
+Honda Amaze S Petrol,2020,26504, Petrol ,5870
+Honda Amaze S Petrol,2020,21795, Petrol ,6300
+Honda Amaze S Petrol,2020,20000, Petrol ,6100
+Honda Amaze S Petrol,2020,10000, Petrol ,6700
+Honda Amaze S Petrol,2020,10000, Petrol ,6500
+Honda Amaze S Petrol,2021,15000, Petrol ,7510
+Honda Amaze S Petrol,2021,7909, Petrol ,7000
+Honda Amaze S Petrol,2021,2867, Petrol ,7500
+Honda Amaze S Petrol,2021,2000, Petrol ,6500
+Honda Amaze S Petrol,2022,20000, Petrol ,7500
+Honda Amaze S Petrol,2022,20000, Petrol ,8150
+Honda Amaze S Petrol,2022,15000, Petrol ,8000
+Honda Amaze S Petrol,2022,2758, Petrol ,7000
+Honda Amaze S Petrol,2023,5000, Petrol ,7000
+Honda Amaze VX CVT,2013,109350, Petrol ,3650
+Honda Amaze VX CVT,2013,55164, Petrol ,2750
+Honda Amaze VX CVT,2013,41000, Petrol ,5110
+Honda Amaze VX CVT,2013,40393, Petrol ,3350
+Honda Amaze VX CVT,2013,26000, Petrol ,4500
+Honda Amaze VX CVT,2014,74083, Petrol ,3500
+Honda Amaze VX CVT,2014,70000, Petrol ,3200
+Honda Amaze VX CVT,2014,58007, Petrol ,3500
+Honda Amaze VX CVT,2014,29000, Petrol ,4250
+Honda Amaze VX CVT,2014,25900, Petrol ,4210
+Honda Amaze VX CVT,2015,133745, Petrol ,4400
+Honda Amaze VX CVT,2015,50000, Petrol ,4650
+Honda Amaze VX CVT,2015,29822, Petrol ,5000
+Honda Amaze VX CVT,2015,26000, Petrol ,4950
+Honda Amaze VX CVT,2015,12710, Petrol ,3400
+Honda Amaze VX CVT,2016,61248, Petrol ,3750
+Honda Amaze VX CVT,2016,59796, Petrol ,4800
+Honda Amaze VX CVT,2016,46000, Petrol ,5950
+Honda Amaze VX CVT,2016,46000, Petrol ,5000
+Honda Amaze VX CVT,2016,40000, Petrol ,5750
+Honda Amaze VX CVT,2016,36858, Petrol ,6750
+Honda Amaze VX CVT,2017,53000, Petrol ,5200
+Honda Amaze VX CVT,2018,56400, Petrol ,6990
+Honda Amaze VX CVT,2018,40217, Petrol ,6980
+Honda Amaze VX CVT,2018,29500, Petrol ,6500
+Honda Amaze VX CVT,2018,29000, Petrol ,7800
+Honda Amaze VX CVT,2018,21644, Petrol ,6500
+Honda Amaze VX CVT,2018,9205, Petrol ,6500
+Honda Amaze VX CVT,2019,48000, Petrol ,7750
+Honda Amaze VX CVT,2019,35000, Petrol ,7220
+Honda Amaze VX CVT,2019,33168, Petrol ,6990
+Honda Amaze VX CVT,2019,30906, Petrol ,7970
+Honda Amaze VX CVT,2019,22700, Petrol ,7500
+Honda Amaze VX CVT,2019,21582, Petrol ,7500
+Honda Amaze VX CVT,2019,21000, Petrol ,7340
+Honda Amaze VX CVT,2019,14977, Petrol ,8250
+Honda Amaze VX CVT,2019,12494, Petrol ,6000
+Honda Amaze VX CVT,2019,10925, Petrol ,7750
+Honda Amaze VX CVT,2020,18731, Petrol ,7900
+Honda Amaze VX CVT,2020,13307, Petrol ,6790
+Honda Amaze VX CVT,2021,38352, Petrol ,7850
+Honda Amaze VX CVT,2021,38352, Petrol ,7850
+Honda Amaze VX CVT,2021,20900, Petrol ,8250
+Honda Amaze VX CVT,2021,12313, Petrol ,9320
+Honda Amaze VX CVT,2021,4001, Petrol ,9500
+Honda Amaze VX CVT,2022,10885, Petrol ,9560
+Honda Amaze VX CVT,2022,5362, Petrol ,10000
+Honda Amaze VX CVT,2022,5132, Petrol ,8500
+Honda Amaze VX i DTEC,2013,200000, Diesel ,2500
+Honda Amaze VX i DTEC,2013,169285, Diesel ,3490
+Honda Amaze VX i DTEC,2013,156064, Diesel ,3270
+Honda Amaze VX i DTEC,2013,136323, Diesel ,3000
+Honda Amaze VX i DTEC,2013,114565, Diesel ,2120
+Honda Amaze VX i DTEC,2013,113924, Diesel ,3000
+Honda Amaze VX i DTEC,2013,110000, Diesel ,2000
+Honda Amaze VX i DTEC,2013,110000, Diesel ,3350
+Honda Amaze VX i DTEC,2013,110000, Diesel ,3350
+Honda Amaze VX i DTEC,2013,110000, Diesel ,2300
+Honda Amaze VX i DTEC,2013,88000, Diesel ,2500
+Honda Amaze VX i DTEC,2013,72071, Diesel ,4500
+Honda Amaze VX i DTEC,2013,70000, Diesel ,3500
+Honda Amaze VX i DTEC,2013,54000, Diesel ,4650
+Honda Amaze VX i DTEC,2013,48647, Diesel ,3200
+Honda Amaze VX i DTEC,2014,204000, Diesel ,4000
+Honda Amaze VX i DTEC,2014,141088, Diesel ,4000
+Honda Amaze VX i DTEC,2014,125690, Diesel ,2450
+Honda Amaze VX i DTEC,2014,119824, Diesel ,2960
+Honda Amaze VX i DTEC,2014,113136, Diesel ,2730
+Honda Amaze VX i DTEC,2014,94146, Diesel ,4560
+Honda Amaze VX i DTEC,2014,91828, Diesel ,2880
+Honda Amaze VX i DTEC,2014,91332, Diesel ,2300
+Honda Amaze VX i DTEC,2014,84107, Diesel ,2650
+Honda Amaze VX i DTEC,2014,82709, Diesel ,2750
+Honda Amaze VX i DTEC,2014,80000, Diesel ,4600
+Honda Amaze VX i DTEC,2014,79324, Diesel ,2990
+Honda Amaze VX i DTEC,2014,79303, Diesel ,2000
+Honda Amaze VX i DTEC,2014,74884, Diesel ,3500
+Honda Amaze VX i DTEC,2014,71481, Diesel ,2750
+Honda Amaze VX i DTEC,2014,70000, Diesel ,3000
+Honda Amaze VX i DTEC,2014,68978, Diesel ,2800
+Honda Amaze VX i DTEC,2014,66776, Diesel ,2300
+Honda Amaze VX i DTEC,2014,27961, Diesel ,4220
+Honda Amaze VX i DTEC,2015,200000, Diesel ,3500
+Honda Amaze VX i DTEC,2015,121940, Diesel ,2950
+Honda Amaze VX i DTEC,2015,120000, Diesel ,4000
+Honda Amaze VX i DTEC,2015,112403, Diesel ,3000
+Honda Amaze VX i DTEC,2015,107252, Diesel ,2900
+Honda Amaze VX i DTEC,2015,95338, Diesel ,2250
+Honda Amaze VX i DTEC,2015,80000, Diesel ,4800
+Honda Amaze VX i DTEC,2015,77279, Diesel ,3500
+Honda Amaze VX i DTEC,2015,53000, Diesel ,3300
+Honda Amaze VX i DTEC,2015,35341, Diesel ,3000
+Honda Amaze VX i DTEC,2015,35341, Diesel ,3000
+Honda Amaze VX i DTEC,2016,70000, Diesel ,5700
+Honda Amaze VX i DTEC,2017,120000, Diesel ,3000
+Honda Amaze VX i DTEC,2017,110000, Diesel ,5500
+Honda Amaze VX i DTEC,2017,79968, Diesel ,6000
+Honda Amaze VX i DTEC,2017,40000, Diesel ,4900
+Honda Amaze VX i DTEC,2018,149091, Diesel ,6200
+Honda Amaze VX i DTEC,2018,137976, Diesel ,4600
+Honda Amaze VX i DTEC,2018,110000, Diesel ,5700
+Honda Amaze VX i DTEC,2018,90000, Diesel ,7500
+Honda Amaze VX i DTEC,2018,81126, Diesel ,5780
+Honda Amaze VX i DTEC,2018,64812, Diesel ,6000
+Honda Amaze VX i DTEC,2018,62312, Diesel ,5500
+Honda Amaze VX i DTEC,2018,56069, Diesel ,6100
+Honda Amaze VX i DTEC,2018,53955, Diesel ,6750
+Honda Amaze VX i DTEC,2018,50000, Diesel ,7300
+Honda Amaze VX i DTEC,2018,50000, Diesel ,6100
+Honda Amaze VX i DTEC,2018,33694, Diesel ,6490
+Honda Amaze VX i DTEC,2019,120000, Diesel ,6000
+Honda Amaze VX i DTEC,2019,68816, Diesel ,7950
+Honda Amaze VX i DTEC,2019,30000, Diesel ,6500
+Honda Amaze VX i DTEC,2021,60000, Diesel ,4220
+Honda Amaze VX i DTEC,2021,30000, Diesel ,11500
+Honda Amaze VX i DTEC,2021,28183, Diesel ,8500
+Honda Amaze VX i-DTEC,2013,170137, Diesel ,2800
+Honda Amaze VX i-DTEC,2014,148000, Diesel ,3500
+Honda Amaze VX i-DTEC,2014,69900, Diesel ,4250
+Honda Amaze VX i-DTEC,2015,85949, Diesel ,5050
+Honda Amaze VX i-DTEC,2015,60130, Diesel ,4800
+Honda Amaze VX i-DTEC,2016,40000, Diesel ,5100
+Honda Brio VX,2012,85367, Petrol ,3280
+Honda Brio VX,2012,80618, Petrol ,2850
+Honda Brio VX,2012,80000, Petrol ,2000
+Honda Brio VX,2012,79999, Petrol ,3100
+Honda Brio VX,2012,73453, Petrol ,2250
+Honda Brio VX,2012,72452, Petrol ,2890
+Honda Brio VX,2012,71320, Petrol ,2100
+Honda Brio VX,2012,71169, Petrol ,3260
+Honda Brio VX,2012,65865, Petrol ,2390
+Honda Brio VX,2012,64000, Petrol ,2900
+Honda Brio VX,2012,49000, Petrol ,2490
+Honda Brio VX,2012,48000, Petrol ,2750
+Honda Brio VX,2012,48000, Petrol ,2750
+Honda Brio VX,2012,47217, Petrol ,2200
+Honda Brio VX,2012,47000, Petrol ,2300
+Honda Brio VX,2012,8000, Petrol ,2850
+Honda Brio VX,2013,128431, Petrol ,2800
+Honda Brio VX,2013,104980, Petrol ,3160
+Honda Brio VX,2013,82097, Petrol ,2130
+Honda Brio VX,2013,75245, Petrol ,2250
+Honda Brio VX,2013,74424, Petrol ,2300
+Honda Brio VX,2013,70000, Petrol ,3250
+Honda Brio VX,2013,66000, Petrol ,4000
+Honda Brio VX,2013,65572, Petrol ,3130
+Honda Brio VX,2013,59617, Petrol ,3230
+Honda Brio VX,2013,58176, Petrol ,2600
+Honda Brio VX,2013,57368, Petrol ,1900
+Honda Brio VX,2013,53313, Petrol ,2800
+Honda Brio VX,2013,48500, Petrol ,2890
+Honda Brio VX,2013,48219, Petrol ,2500
+Honda Brio VX,2013,45487, Petrol ,3330
+Honda Brio VX,2013,43693, Petrol ,2250
+Honda Brio VX,2013,37000, Petrol ,2990
+Honda Brio VX,2013,33912, Petrol ,2850
+Honda Brio VX,2013,32654, Petrol ,3250
+Honda Brio VX,2013,18511, Petrol ,3440
+Honda Brio VX,2014,85269, Petrol ,3000
+Honda Brio VX,2014,41052, Petrol ,2650
+Honda Brio VX,2014,39000, Petrol ,3510
+Honda Brio VX,2014,32000, Petrol ,3350
+Honda Brio VX,2014,28000, Petrol ,3000
+Honda Brio VX,2015,99398, Petrol ,3460
+Honda Brio VX,2015,60000, Petrol ,4600
+Honda Brio VX,2015,55590, Petrol ,4100
+Honda Brio VX,2015,53560, Petrol ,3000
+Honda Brio VX,2015,29597, Petrol ,3720
+Honda Brio VX,2015,26107, Petrol ,5020
+Honda Brio VX,2016,68000, Petrol ,4400
+Honda Brio VX,2016,56945, Petrol ,3700
+Honda Brio VX,2016,50000, Petrol ,4000
+Honda Brio VX,2016,45000, Petrol ,4100
+Honda Brio VX,2016,28000, Petrol ,4700
+Honda Brio VX,2016,28000, Petrol ,4700
+Honda Brio VX,2016,16000, Petrol ,4650
+Honda Brio VX,2017,57253, Petrol ,3200
+Honda Brio VX,2017,26536, Petrol ,5200
+Honda Brio VX,2018,30346, Petrol ,4790
+Honda BR-V i-DTEC V MT,2016,120000, Diesel ,4500
+Honda BR-V i-DTEC V MT,2016,59235, Diesel ,7110
+Honda BR-V i-DTEC V MT,2016,41163, Diesel ,6500
+Honda BR-V i-DTEC V MT,2017,172246, Diesel ,6310
+Honda BR-V i-DTEC V MT,2017,42000, Diesel ,7400
+Honda BR-V i-DTEC V MT,2018,90000, Diesel ,6500
+Honda BR-V i-DTEC V MT,2019,23561, Diesel ,11000
+Honda BR-V i-VTEC E MT,2016,59000, Petrol ,6500
+Honda BR-V i-VTEC E MT,2016,56471, Petrol ,6000
+Honda BR-V i-VTEC E MT,2016,35000, Petrol ,8500
+Honda BR-V i-VTEC E MT,2017,71359, Petrol ,7000
+Honda BR-V i-VTEC E MT,2017,62000, Petrol ,6900
+Honda BR-V i-VTEC E MT,2017,58646, Petrol ,7490
+Honda BR-V i-VTEC E MT,2017,57509, Petrol ,7230
+Honda BR-V i-VTEC E MT,2017,38283, Petrol ,6750
+Honda BR-V i-VTEC E MT,2017,38000, Petrol ,7010
+Honda BR-V i-VTEC E MT,2017,29401, Petrol ,7150
+Honda BR-V i-VTEC E MT,2017,29000, Petrol ,8850
+Honda BR-V i-VTEC E MT,2019,35000, Petrol ,7950
+Honda BR-V i-VTEC E MT,2019,26000, Petrol ,6750
+Honda BR-V i-VTEC E MT,2019,23000, Petrol ,8500
+Honda BR-V i-VTEC E MT,2019,16549, Petrol ,9000
+Honda City GXi,2004,109381, Petrol ,1500
+Honda City GXi,2005,111279, Petrol ,1730
+Honda City GXi,2005,106719, Petrol ,1250
+Honda City GXi,2005,91687, Petrol ,1500
+Honda City GXi,2005,59124, Petrol ,1510
+Honda City GXi,2006,110000, Petrol ,1800
+Honda City GXi,2006,110000, Petrol ,1800
+Honda City GXi,2006,90000, Petrol ,1400
+Honda City GXi,2006,84002, Petrol ,1500
+Honda City GXi,2007,127220, Petrol ,1850
+Honda City GXi,2007,100000, Petrol ,2000
+Honda City GXi,2007,80000, Petrol ,1500
+Honda City GXi,2008,223000, Petrol ,1000
+Honda City GXi,2008,131990, Petrol ,1510
+Honda City GXi,2008,131474, Petrol ,1500
+Honda City GXi,2008,125051, Petrol ,1200
+Honda City GXi,2008,123000, Petrol ,1650
+Honda City GXi,2008,120000, Petrol ,1600
+Honda City GXi,2008,120000, Petrol ,1900
+Honda City GXi,2008,110000, Petrol ,1100
+Honda City GXi,2008,106485, Petrol ,3000
+Honda City GXi,2008,104184, Petrol ,1280
+Honda City GXi,2008,104000, Petrol ,1800
+Honda City GXi,2008,81543, Petrol ,2320
+Honda City GXi,2008,80000, Petrol ,2500
+Honda City GXi,2008,70000, Petrol ,1250
+Honda City GXi,2008,68013, Petrol ,1350
+Honda City GXi,2008,60000, Petrol ,1200
+Honda City GXi,2009,149155, Petrol ,3090
+Honda City GXi,2009,137319, Petrol ,3000
+Honda City GXi,2009,130135, Petrol ,2500
+Honda City GXi,2009,127986, Petrol ,3000
+Honda City GXi,2009,116146, Petrol ,2000
+Honda City GXi,2009,114846, Petrol ,1300
+Honda City GXi,2009,110000, Petrol ,1250
+Honda City GXi,2009,110000, Petrol ,2500
+Honda City GXi,2009,108450, Petrol ,2000
+Honda City GXi,2009,108406, Petrol ,1800
+Honda City GXi,2009,107124, Petrol ,1750
+Honda City GXi,2009,103913, Petrol ,2320
+Honda City GXi,2009,102816, Petrol ,1800
+Honda City GXi,2009,95980, Petrol ,1780
+Honda City GXi,2009,95515, Petrol ,3000
+Honda City GXi,2009,95409, Petrol ,2500
+Honda City GXi,2009,95000, Petrol ,2950
+Honda City GXi,2009,93909, Petrol ,1150
+Honda City GXi,2009,92128, Petrol ,1780
+Honda City GXi,2009,90000, Petrol ,3000
+Honda City GXi,2009,87163, Petrol ,1000
+Honda City GXi,2009,85682, Petrol ,1950
+Honda City GXi,2009,83088, Petrol ,1960
+Honda City GXi,2009,83000, Petrol ,2450
+Honda City GXi,2009,82000, Petrol ,2850
+Honda City GXi,2009,81521, Petrol ,1960
+Honda City GXi,2009,78766, Petrol ,2700
+Honda City GXi,2009,78000, Petrol ,2490
+Honda City GXi,2009,76831, Petrol ,2220
+Honda City GXi,2009,73193, Petrol ,1960
+Honda City GXi,2009,70200, Petrol ,2950
+Honda City GXi,2009,67300, Petrol ,2350
+Honda City GXi,2009,67000, Petrol ,4000
+Honda City GXi,2009,65000, Petrol ,1750
+Honda City GXi,2009,60000, Petrol ,1700
+Honda City GXi,2009,59000, Petrol ,2500
+Honda City GXi,2009,44869, Petrol ,2500
+Honda City GXi,2009,43489, Petrol ,2000
+Honda City GXi,2009,30296, Petrol ,2500
+Honda City GXi,2010,191931, Petrol ,2500
+Honda City GXi,2010,133878, Petrol ,2770
+Honda City GXi,2010,120023, Petrol ,2400
+Honda City GXi,2010,120000, Petrol ,5000
+Honda City GXi,2010,105248, Petrol ,3000
+Honda City GXi,2010,95618, Petrol ,3010
+Honda City GXi,2010,94233, Petrol ,2200
+Honda City GXi,2010,93275, Petrol ,3500
+Honda City GXi,2010,92000, Petrol ,2500
+Honda City GXi,2010,91744, Petrol ,2300
+Honda City GXi,2010,89191, Petrol ,2610
+Honda City GXi,2010,87362, Petrol ,2000
+Honda City GXi,2010,87000, Petrol ,3950
+Honda City GXi,2010,83013, Petrol ,2400
+Honda City GXi,2010,78352, Petrol ,4600
+Honda City GXi,2010,77000, Petrol ,3250
+Honda City GXi,2010,76436, Petrol ,2100
+Honda City GXi,2010,76000, Petrol ,2600
+Honda City GXi,2010,73033, Petrol ,3990
+Honda City GXi,2010,72464, Petrol ,2500
+Honda City GXi,2010,72000, Petrol ,2800
+Honda City GXi,2010,70590, Petrol ,3750
+Honda City GXi,2010,70000, Petrol ,2750
+Honda City GXi,2010,70000, Petrol ,2000
+Honda City GXi,2010,68418, Petrol ,3010
+Honda City GXi,2010,64000, Petrol ,3350
+Honda City GXi,2010,59556, Petrol ,1950
+Honda City GXi,2010,56000, Petrol ,2450
+Honda City GXi,2010,50965, Petrol ,2500
+Honda City GXi,2010,50000, Petrol ,3500
+Honda City GXi,2010,50000, Petrol ,2750
+Honda City GXi,2010,26900, Petrol ,3000
+Honda City GXi,2011,119822, Petrol ,2370
+Honda City GXi,2011,87487, Petrol ,2700
+Honda City GXi,2011,82542, Petrol ,3010
+Honda City GXi,2011,79000, Petrol ,3500
+Honda City GXi,2011,78474, Petrol ,2400
+Honda City GXi,2011,70000, Petrol ,3600
+Honda City GXi,2011,70000, Petrol ,3300
+Honda City GXi,2011,70000, Petrol ,3750
+Honda City GXi,2011,67000, Petrol ,3250
+Honda City GXi,2011,53418, Petrol ,3120
+Honda City GXi,2011,52500, Petrol ,4090
+Honda City GXi,2012,145956, Petrol ,3650
+Honda City GXi,2012,97320, Petrol ,3630
+Honda City GXi,2012,80000, Petrol ,3000
+Honda City GXi,2012,72903, Petrol ,5000
+Honda City GXi,2012,66000, Petrol ,3650
+Honda City GXi,2012,62500, Petrol ,3500
+Honda City GXi,2012,46761, Petrol ,4500
+Honda City GXi,2013,100085, Petrol ,2830
+Honda City GXi,2013,90000, Petrol ,5500
+Honda City GXi,2013,63525, Petrol ,4000
+Honda City GXi,2013,29126, Petrol ,4250
+Honda City GXi,2013,23000, Petrol ,4850
+Honda City GXi,2015,55000, Petrol ,5900
+Honda City GXi,2016,58871, Petrol ,7800
+Honda City GXi,2017,22500, Petrol ,8750
+Honda City i DTEC VX,2014,188878, Diesel ,4500
+Honda City i DTEC VX,2014,166563, Diesel ,4000
+Honda City i DTEC VX,2014,149990, Diesel ,2750
+Honda City i DTEC VX,2014,149237, Diesel ,3000
+Honda City i DTEC VX,2014,142000, Diesel ,7150
+Honda City i DTEC VX,2014,139841, Diesel ,3360
+Honda City i DTEC VX,2014,135538, Diesel ,3500
+Honda City i DTEC VX,2014,134397, Diesel ,5750
+Honda City i DTEC VX,2014,131004, Diesel ,4790
+Honda City i DTEC VX,2014,121147, Diesel ,3000
+Honda City i DTEC VX,2014,119799, Diesel ,3670
+Honda City i DTEC VX,2014,112306, Diesel ,5200
+Honda City i DTEC VX,2014,110697, Diesel ,4040
+Honda City i DTEC VX,2014,110481, Diesel ,5000
+Honda City i DTEC VX,2014,110000, Diesel ,3500
+Honda City i DTEC VX,2014,110000, Diesel ,5300
+Honda City i DTEC VX,2014,104790, Diesel ,4000
+Honda City i DTEC VX,2014,100000, Diesel ,5400
+Honda City i DTEC VX,2014,98243, Diesel ,5620
+Honda City i DTEC VX,2014,97285, Diesel ,3940
+Honda City i DTEC VX,2014,92509, Diesel ,5000
+Honda City i DTEC VX,2014,91123, Diesel ,4350
+Honda City i DTEC VX,2014,91000, Diesel ,5300
+Honda City i DTEC VX,2014,90000, Diesel ,4450
+Honda City i DTEC VX,2014,88385, Diesel ,5500
+Honda City i DTEC VX,2014,85533, Diesel ,3090
+Honda City i DTEC VX,2014,82410, Diesel ,6600
+Honda City i DTEC VX,2014,80000, Diesel ,5450
+Honda City i DTEC VX,2014,80000, Diesel ,5000
+Honda City i DTEC VX,2014,80000, Diesel ,4800
+Honda City i DTec VX,2014,79074, Diesel ,5850
+Honda City i DTEC VX,2014,75247, Diesel ,6500
+Honda City i DTEC VX,2014,70262, Diesel ,5500
+Honda City i DTEC VX,2014,70000, Diesel ,4350
+Honda City i DTEC VX,2014,67245, Diesel ,4000
+Honda City i DTEC VX,2014,66411, Diesel ,7000
+Honda City i DTEC VX,2014,44901, Diesel ,3000
+Honda City i DTEC VX,2014,41576, Diesel ,4500
+Honda City i DTEC VX,2015,140499, Diesel ,5300
+Honda City i DTEC VX,2015,125000, Diesel ,6000
+Honda City i DTEC VX,2015,110586, Diesel ,5400
+Honda City i DTEC VX,2015,109839, Diesel ,5500
+Honda City i DTEC VX,2015,105773, Diesel ,3500
+Honda City i DTEC VX,2015,101466, Diesel ,5650
+Honda City i DTEC VX,2015,100818, Diesel ,4500
+Honda City i DTEC VX,2015,100000, Diesel ,6850
+Honda City i DTec VX,2015,100000, Diesel ,6200
+Honda City i DTEC VX,2015,96395, Diesel ,4000
+Honda City i DTEC VX,2015,76670, Diesel ,4360
+Honda City i DTEC VX,2015,71773, Diesel ,4300
+Honda City i DTEC VX,2015,68000, Diesel ,5300
+Honda City i DTEC VX,2015,64000, Diesel ,5490
+Honda City i DTEC VX,2015,56597, Diesel ,5150
+Honda City i DTEC VX,2015,50500, Diesel ,6490
+Honda City i DTEC VX,2015,50000, Diesel ,5550
+Honda City i DTEC VX,2015,49970, Diesel ,6500
+Honda City i DTEC VX,2015,47438, Diesel ,4850
+Honda City i DTEC VX,2015,28451, Diesel ,7000
+Honda City i DTEC VX,2016,151181, Diesel ,5000
+Honda City i DTEC VX,2016,129835, Diesel ,5200
+Honda City i DTec VX,2016,82000, Diesel ,7250
+Honda City i DTec VX,2016,66731, Diesel ,5710
+Honda City i DTEC VX,2016,50393, Diesel ,5500
+Honda City i DTEC VX,2016,39000, Diesel ,6100
+Honda City i DTec VX,2017,100000, Diesel ,8250
+Honda City i DTEC VX,2017,74000, Diesel ,8250
+Honda City i DTec VX,2017,31000, Diesel ,9750
+Honda City i DTec VX,2018,120000, Diesel ,9000
+Honda City i DTec VX,2018,60000, Diesel ,9000
+Honda City i DTec VX,2018,60000, Diesel ,9000
+Honda City i DTec VX,2019,54000, Diesel ,9900
+Honda City i DTec VX,2019,42240, Diesel ,8000
+Honda City i DTec VX,2019,40000, Diesel ,10900
+Honda City i VTEC CVT SV,2014,58200, Petrol ,5450
+Honda City i VTEC CVT SV,2014,33000, Petrol ,5750
+Honda City i VTEC CVT SV,2015,96409, Petrol ,5900
+Honda City i VTEC CVT SV,2015,69000, Petrol ,5850
+Honda City i VTEC CVT SV,2015,57449, Petrol ,5750
+Honda City i VTEC CVT SV,2015,18000, Petrol ,7250
+Honda City i VTEC CVT SV,2016,50000, Petrol ,7800
+Honda City i VTEC CVT SV,2016,50000, Petrol ,7800
+Honda City i VTEC CVT SV,2016,32253, Petrol ,5100
+Honda City i VTEC CVT SV,2016,16300, Petrol ,6000
+Honda City i VTEC CVT VX,2012,68434, Petrol ,3950
+Honda City i VTEC CVT VX,2013,61000, Petrol ,3900
+Honda City i VTEC CVT VX,2013,28000, Petrol ,4600
+Honda City i VTEC CVT VX,2014,122698, Petrol ,5500
+Honda City i VTEC CVT VX,2014,115068, Petrol ,5500
+Honda City i VTEC CVT VX,2014,96246, Petrol ,5910
+Honda City i VTEC CVT VX,2014,93298, Petrol ,5650
+Honda City i VTEC CVT VX,2014,90535, Petrol ,5240
+Honda City i VTEC CVT VX,2014,80090, Petrol ,5800
+Honda City i VTEC CVT VX,2014,80000, Petrol ,5750
+Honda City i VTEC CVT VX,2014,79074, Petrol ,5850
+Honda City i VTEC CVT VX,2014,76400, Petrol ,5950
+Honda City i VTEC CVT VX,2014,75480, Petrol ,6500
+Honda City i VTEC CVT VX,2014,59320, Petrol ,5510
+Honda City i VTEC CVT VX,2014,59218, Petrol ,5500
+Honda City i VTEC CVT VX,2014,57273, Petrol ,5680
+Honda City i VTEC CVT VX,2014,56000, Petrol ,5450
+Honda City i VTEC CVT VX,2014,56000, Petrol ,5150
+Honda City i VTEC CVT VX,2014,55000, Petrol ,5250
+Honda City i VTEC CVT VX,2014,50000, Petrol ,3750
+Honda City i VTEC CVT VX,2014,47000, Petrol ,5550
+Honda City i VTEC CVT VX,2014,45882, Petrol ,6000
+Honda City i VTEC CVT VX,2014,43000, Petrol ,5250
+Honda City i VTEC CVT VX,2014,39529, Petrol ,7000
+Honda City i VTEC CVT VX,2014,37950, Petrol ,4150
+Honda City i VTEC CVT VX,2014,22377, Petrol ,6000
+Honda City i VTEC CVT VX,2014,16802, Petrol ,5000
+Honda City i VTEC CVT VX,2015,125308, Petrol ,5000
+Honda City i VTEC CVT VX,2015,120000, Petrol ,5500
+Honda City i VTEC CVT VX,2015,109450, Petrol ,5000
+Honda City i VTEC CVT VX,2015,105114, Petrol ,5680
+Honda City i VTEC CVT VX,2015,103522, Petrol ,5500
+Honda City i VTEC CVT VX,2015,95430, Petrol ,5000
+Honda City i VTEC CVT VX,2015,94972, Petrol ,6600
+Honda City i VTEC CVT VX,2015,94670, Petrol ,6000
+Honda City i VTEC CVT VX,2015,92028, Petrol ,5780
+Honda City i VTEC CVT VX,2015,85291, Petrol ,6000
+Honda City i VTEC CVT VX,2015,77381, Petrol ,6000
+Honda City i VTEC CVT VX,2015,76547, Petrol ,7340
+Honda City i VTEC CVT VX,2015,75000, Petrol ,5250
+Honda City i VTEC CVT VX,2015,74481, Petrol ,5750
+Honda City i VTEC CVT VX,2015,74057, Petrol ,6890
+Honda City i VTEC CVT VX,2015,73948, Petrol ,5150
+Honda City i VTEC CVT VX,2015,69204, Petrol ,5600
+Honda City i VTEC CVT VX,2015,66795, Petrol ,6490
+Honda City i VTEC CVT VX,2015,65742, Petrol ,6030
+Honda City i VTEC CVT VX,2015,64967, Petrol ,5800
+Honda City i VTEC CVT VX,2015,56908, Petrol ,7120
+Honda City i VTEC CVT VX,2015,55331, Petrol ,5900
+Honda City i VTEC CVT VX,2015,52932, Petrol ,5650
+Honda City i VTEC CVT VX,2015,50500, Petrol ,6490
+Honda City i VTEC CVT VX,2015,50000, Petrol ,6500
+Honda City i VTEC CVT VX,2015,49848, Petrol ,6500
+Honda City i VTEC CVT VX,2015,48000, Petrol ,7650
+Honda City i VTEC CVT VX,2015,47441, Petrol ,5500
+Honda City i VTEC CVT VX,2015,45112, Petrol ,6900
+Honda City i VTEC CVT VX,2015,40000, Petrol ,5500
+Honda City i VTEC CVT VX,2015,38411, Petrol ,5890
+Honda City i VTEC CVT VX,2015,32191, Petrol ,4750
+Honda City i VTEC CVT VX,2016,99548, Petrol ,6900
+Honda City i VTEC CVT VX,2016,83797, Petrol ,7500
+Honda City i VTEC CVT VX,2016,80815, Petrol ,6800
+Honda City i VTEC CVT VX,2016,78982, Petrol ,8000
+Honda City i VTEC CVT VX,2016,73147, Petrol ,5000
+Honda City i VTEC CVT VX,2016,67329, Petrol ,7620
+Honda City i VTEC CVT VX,2016,61221, Petrol ,8000
+Honda City i VTEC CVT VX,2016,59010, Petrol ,7800
+Honda City i VTEC CVT VX,2016,58000, Petrol ,6250
+Honda City i VTEC CVT VX,2016,56660, Petrol ,7450
+Honda City i VTEC CVT VX,2016,53025, Petrol ,7450
+Honda City i VTEC CVT VX,2016,52000, Petrol ,7000
+Honda City i VTEC CVT VX,2016,50900, Petrol ,6600
+Honda City i VTEC CVT VX,2016,50000, Petrol ,6000
+Honda City i VTEC CVT VX,2016,46564, Petrol ,5500
+Honda City i VTEC CVT VX,2016,43977, Petrol ,6240
+Honda City i VTEC CVT VX,2016,43000, Petrol ,7900
+Honda City i VTEC CVT VX,2016,41000, Petrol ,6250
+Honda City i VTEC CVT VX,2016,38532, Petrol ,8420
+Honda City i VTEC CVT VX,2016,37000, Petrol ,7950
+Honda City i VTEC CVT VX,2016,37000, Petrol ,6950
+Honda City i VTEC CVT VX,2016,36000, Petrol ,6310
+Honda City i VTEC CVT VX,2016,35620, Petrol ,7500
+Honda City i VTEC CVT VX,2016,35025, Petrol ,7500
+Honda City i VTEC CVT VX,2016,32291, Petrol ,7000
+Honda City i VTEC CVT VX,2016,32000, Petrol ,7250
+Honda City i VTEC CVT VX,2016,28000, Petrol ,5900
+Honda City i VTEC CVT VX,2016,25314, Petrol ,7550
+Honda City i VTEC CVT VX,2016,22000, Petrol ,8000
+Honda City i VTEC CVT VX,2016,19434, Petrol ,6000
+Honda City i VTEC CVT VX,2017,100385, Petrol ,6330
+Honda City i VTEC CVT VX,2017,89969, Petrol ,7550
+Honda City i VTEC CVT VX,2017,86945, Petrol ,7000
+Honda City i VTEC CVT VX,2017,81904, Petrol ,7200
+Honda City i VTEC CVT VX,2017,75185, Petrol ,8000
+Honda City i VTEC CVT VX,2017,75083, Petrol ,8800
+Honda City i VTEC CVT VX,2017,73003, Petrol ,7750
+Honda City i VTEC CVT VX,2017,70000, Petrol ,7500
+Honda City i VTEC CVT VX,2017,63000, Petrol ,8650
+Honda City i VTEC CVT VX,2017,62405, Petrol ,6790
+Honda City i VTEC CVT VX,2017,58011, Petrol ,7280
+Honda City i VTEC CVT VX,2017,55203, Petrol ,7450
+Honda City i VTEC CVT VX,2017,54184, Petrol ,6000
+Honda City i VTEC CVT VX,2017,53000, Petrol ,6400
+Honda City i VTEC CVT VX,2017,51920, Petrol ,7100
+Honda City i VTEC CVT VX,2017,51000, Petrol ,8990
+Honda City i VTEC CVT VX,2017,51000, Petrol ,8990
+Honda City i VTEC CVT VX,2017,50000, Petrol ,8000
+Honda City i VTEC CVT VX,2017,49568, Petrol ,6500
+Honda City i VTEC CVT VX,2017,47258, Petrol ,8500
+Honda City i VTEC CVT VX,2017,47000, Petrol ,7950
+Honda City i VTEC CVT VX,2017,46729, Petrol ,7500
+Honda City i VTEC CVT VX,2017,43417, Petrol ,8950
+Honda City i VTEC CVT VX,2017,41000, Petrol ,7500
+Honda City i VTEC CVT VX,2017,39000, Petrol ,7250
+Honda City i VTEC CVT VX,2017,38515, Petrol ,7100
+Honda City i VTEC CVT VX,2017,38000, Petrol ,7250
+Honda City i VTEC CVT VX,2017,36000, Petrol ,6100
+Honda City i VTEC CVT VX,2017,36000, Petrol ,6100
+Honda City i VTEC CVT VX,2017,35000, Petrol ,9350
+Honda City i VTEC CVT VX,2017,33400, Petrol ,8950
+Honda City i VTEC CVT VX,2017,32721, Petrol ,10140
+Honda City i VTEC CVT VX,2017,32422, Petrol ,8500
+Honda City i VTEC CVT VX,2017,31000, Petrol ,6930
+Honda City i VTEC CVT VX,2017,30991, Petrol ,9500
+Honda City i VTEC CVT VX,2017,30000, Petrol ,8900
+Honda City i VTEC CVT VX,2017,30000, Petrol ,6950
+Honda City i VTEC CVT VX,2017,28419, Petrol ,8500
+Honda City i VTEC CVT VX,2017,28340, Petrol ,10990
+Honda City i VTEC CVT VX,2017,28000, Petrol ,8000
+Honda City i VTEC CVT VX,2017,25550, Petrol ,8000
+Honda City i VTEC CVT VX,2017,25000, Petrol ,9500
+Honda City i VTEC CVT VX,2017,22735, Petrol ,7150
+Honda City i VTEC CVT VX,2017,17687, Petrol ,9000
+Honda City i VTEC CVT VX,2017,16665, Petrol ,11500
+Honda City i VTEC CVT VX,2017,16665, Petrol ,11500
+Honda City i VTEC CVT VX,2018,80000, Petrol ,9000
+Honda City i VTEC CVT VX,2018,67181, Petrol ,8250
+Honda City i VTEC CVT VX,2018,67173, Petrol ,7870
+Honda City i VTEC CVT VX,2018,56400, Petrol ,8950
+Honda City i VTEC CVT VX,2018,53416, Petrol ,7950
+Honda City i VTEC CVT VX,2018,44000, Petrol ,9400
+Honda City i VTEC CVT VX,2018,42000, Petrol ,5000
+Honda City i VTEC CVT VX,2018,35000, Petrol ,8910
+Honda City i VTEC CVT VX,2018,34025, Petrol ,7250
+Honda City i VTEC CVT VX,2018,33412, Petrol ,8400
+Honda City i VTEC CVT VX,2018,33000, Petrol ,8990
+Honda City i VTEC CVT VX,2018,29635, Petrol ,9950
+Honda City i VTEC CVT VX,2018,27947, Petrol ,7500
+Honda City i VTEC CVT VX,2018,23733, Petrol ,9000
+Honda City i VTEC CVT VX,2018,22000, Petrol ,7000
+Honda City i VTEC CVT VX,2018,21000, Petrol ,10250
+Honda City i VTEC CVT VX,2018,2264, Petrol ,8000
+Honda City i VTEC CVT VX,2019,85759, Petrol ,11570
+Honda City i VTEC CVT VX,2019,38000, Petrol ,8900
+Honda City i VTEC CVT VX,2019,35000, Petrol ,7990
+Honda City i VTEC CVT VX,2019,33500, Petrol ,10000
+Honda City i VTEC CVT VX,2019,32000, Petrol ,10250
+Honda City i VTEC CVT VX,2019,32000, Petrol ,9900
+Honda City i VTEC CVT VX,2020,35000, Petrol ,7990
+Honda City i VTEC CVT VX,2020,30000, Petrol ,11500
+Honda City i VTEC CVT VX,2020,12487, Petrol ,13450
+Honda City i VTEC CVT VX,2021,39011, Petrol ,13450
+Honda City i VTEC CVT VX,2021,39000, Petrol ,13450
+Honda City i VTEC CVT VX,2021,16000, Petrol ,11900
+Honda City i VTEC CVT VX,2022,16000, Petrol ,14000
+Honda City i VTEC CVT VX,2022,5100, Petrol ,15900
+Honda City i VTEC CVT VX,2022,3800, Petrol ,15900
+Honda City S,2009,90000, Petrol ,3000
+Honda City S,2011,81846, Petrol ,3860
+Honda City S,2011,71199, Petrol ,2850
+Honda City S,2011,71025, Petrol ,2950
+Honda City S,2012,210592, Petrol ,2550
+Honda City S,2012,91030, Petrol ,3080
+Honda City S,2012,81572, Petrol ,3000
+Honda City S,2012,74103, Petrol ,3350
+Honda City S,2012,62000, Petrol ,3500
+Honda City S,2012,51902, Petrol ,3000
+Honda City S,2013,93430, Petrol ,4000
+Honda City S,2013,90000, Petrol ,4000
+Honda City S,2013,74680, Petrol ,3620
+Honda City S,2013,45000, Petrol ,3750
+Honda City S,2013,43500, Petrol ,4210
+Honda City SV MT,2014,146732, Petrol ,3700
+Honda City SV MT,2014,50857, Petrol ,5250
+Honda City SV MT,2020,25114, Petrol ,9450
+Honda City SV MT,2021,22111, Petrol ,9000
+Honda City SV MT,2021,6000, Petrol ,9750
+Honda City V MT,2007,119515, Petrol ,1500
+Honda City V MT,2007,80000, Petrol ,2200
+Honda City V MT,2010,141081, Petrol ,3480
+Honda City V MT,2010,90000, Petrol ,2300
+Honda City V MT,2010,86258, Petrol ,3350
+Honda City V MT,2010,85284, Petrol ,3250
+Honda City V MT,2010,57825, Petrol ,3600
+Honda City V MT,2010,25952, Petrol ,2990
+Honda City V MT,2011,100553, Petrol ,3550
+Honda City V MT,2012,135435, Petrol ,4000
+Honda City V MT,2012,120088, Petrol ,3250
+Honda City V MT,2012,98000, Petrol ,4000
+Honda City V MT,2012,90000, Petrol ,4300
+Honda City V MT,2012,70000, Petrol ,3490
+Honda City V MT,2012,57950, Petrol ,4000
+Honda City V MT,2012,55467, Petrol ,3950
+Honda City V MT,2012,51511, Petrol ,4210
+Honda City V MT,2012,48312, Petrol ,4460
+Honda City V MT,2012,36000, Petrol ,4750
+Honda City V MT,2013,350000, Petrol ,4900
+Honda City V MT,2013,90000, Petrol ,5400
+Honda City V MT,2013,55456, Petrol ,3940
+Honda City V MT,2013,54341, Petrol ,6270
+Honda City V MT,2014,30000, Petrol ,6750
+Honda City V MT,2015,61272, Petrol ,5800
+Honda City V MT,2015,59000, Petrol ,6850
+Honda City V MT,2015,55000, Petrol ,5300
+Honda City V MT,2017,60000, Petrol ,8000
+Honda City V MT,2017,8602, Petrol ,7250
+Honda City V MT,2018,51000, Petrol ,8250
+Honda City V MT,2019,80146, Petrol ,7320
+Honda City V MT,2019,63121, Petrol ,9750
+Honda City V MT,2019,30258, Petrol ,9500
+Honda City V MT,2019,22000, Petrol ,9650
+Honda City V MT,2019,19006, Petrol ,9290
+Honda City V MT,2020,64092, Petrol ,10000
+Honda City V MT,2021,103000, Petrol ,9750
+Honda City V MT,2021,11000, Petrol ,13400
+Honda City V MT,2021,6605, Petrol ,10000
+Honda City V MT,2021,5317, Petrol ,11390
+Honda City V MT,2022,27690, Petrol ,10500
+Honda City V MT,2022,15501, Petrol ,10380
+Honda City V MT,2022,5000, Petrol ,10800
+Honda City V MT,2022,3500, Petrol ,11250
+Honda City ZX CVT,2015,74030, Petrol ,7500
+Honda City ZX CVT,2017,70000, Petrol ,8350
+Honda City ZX CVT,2017,64000, Petrol ,8500
+Honda City ZX CVT,2018,28200, Petrol ,9200
+Honda City ZX CVT,2019,82900, Petrol ,12500
+Honda City ZX CVT,2019,71508, Petrol ,11400
+Honda City ZX CVT,2019,44984, Petrol ,13500
+Honda City ZX CVT,2020,35000, Petrol ,12950
+Honda City ZX CVT,2020,20942, Petrol ,12960
+Honda City ZX CVT,2020,17934, Petrol ,12460
+Honda City ZX CVT,2020,16163, Petrol ,13260
+Honda City ZX CVT,2020,12265, Petrol ,12570
+Honda City ZX CVT,2020,5512, Petrol ,14450
+Honda City ZX CVT,2021,33500, Petrol ,12500
+Honda City ZX CVT,2021,17152, Petrol ,11980
+Honda City ZX CVT,2021,11936, Petrol ,13950
+Honda City ZX CVT,2021,10000, Petrol ,12550
+Honda City ZX CVT,2021,5670, Petrol ,12390
+Honda City ZX CVT,2021,5282, Petrol ,15260
+Honda City ZX CVT,2021,3735, Petrol ,14000
+Honda City ZX CVT,2021,1425, Petrol ,13250
+Honda City ZX CVT,2022,15500, Petrol ,13800
+Honda City ZX CVT,2022,14879, Petrol ,12750
+Honda City ZX CVT,2022,8700, Petrol ,14000
+Honda City ZX CVT,2022,5500, Petrol ,15900
+Honda City ZX CVT,2022,5045, Petrol ,14500
+Honda City ZX CVT,2022,4696, Petrol ,14480
+Honda City ZX CVT,2022,1661, Petrol ,16000
+Honda Civic 1.8 V MT,2006,40000, Petrol ,4000
+Honda Civic 1.8 V MT,2007,196000, Petrol ,1800
+Honda Civic 1.8 V MT,2007,90000, Petrol ,1220
+Honda Civic 1.8 V MT,2007,90000, Petrol ,1220
+Honda Civic 1.8 V MT,2007,67811, Petrol ,2080
+Honda Civic 1.8 V MT,2007,45832, Petrol ,1500
+Honda Civic 1.8 V MT,2007,40000, Petrol ,3100
+Honda Civic 1.8 V MT,2008,120054, Petrol ,1960
+Honda Civic 1.8 V MT,2008,114502, Petrol ,1000
+Honda Civic 1.8 V MT,2008,110000, Petrol ,1250
+Honda Civic 1.8 V MT,2008,110000, Petrol ,1250
+Honda Civic 1.8 V MT,2008,100000, Petrol ,2000
+Honda Civic 1.8 V MT,2008,80000, Petrol ,2000
+Honda Civic 1.8 V MT,2008,80000, Petrol ,2000
+Honda Civic 1.8 V MT,2008,80000, Petrol ,2000
+Honda Civic 1.8 V MT,2008,71000, Petrol ,1950
+Honda Civic 1.8 V MT,2008,70000, Petrol ,3850
+Honda Civic 1.8 V MT,2009,183011, Petrol ,2000
+Honda Civic 1.8 V MT,2009,131773, Petrol ,1500
+Honda Civic 1.8 V MT,2009,128853, Petrol ,3000
+Honda Civic 1.8 V MT,2009,109989, Petrol ,2800
+Honda Civic 1.8 V MT,2009,92034, Petrol ,2000
+Honda Civic 1.8 V MT,2009,72000, Petrol ,1950
+Honda Civic 1.8 V MT,2009,65000, Petrol ,2450
+Honda Civic 1.8 V MT,2010,80910, Petrol ,1650
+Honda Civic 1.8 V MT,2010,70000, Petrol ,2000
+Honda Civic 1.8 V MT,2010,61000, Petrol ,3110
+Honda Civic 1.8 V MT,2010,41510, Petrol ,3000
+Honda Civic 1.8 V MT,2010,40000, Petrol ,4000
+Honda Civic 1.8 V MT,2011,107403, Petrol ,3100
+Honda Civic 1.8 V MT,2011,103000, Petrol ,4500
+Honda Civic 1.8 V MT,2011,68000, Petrol ,3100
+Honda Civic 1.8 V MT,2011,33893, Petrol ,3000
+Honda Civic ZX,2019,47297, Petrol ,15000
+Honda Civic ZX,2019,47297, Petrol ,15000
+Honda Civic ZX,2019,35000, Petrol ,15000
+Honda Civic ZX,2019,18000, Petrol ,17250
+Honda Civic ZX,2019,10745, Petrol ,17540
+Honda CR-V 2.4L 4WD AT,2004,101752, Petrol ,3170
+Honda CR-V 2.4L 4WD AT,2007,110000, Petrol ,4500
+Honda CR-V 2.4L 4WD AT,2007,110000, Petrol ,4500
+Honda CR-V 2.4L 4WD AT,2008,80000, Petrol ,1250
+Honda CR-V 2.4L 4WD AT,2008,80000, Petrol ,2250
+Honda CR-V 2.4L 4WD AT,2008,74139, Petrol ,3130
+Honda CR-V 2.4L 4WD AT,2014,85105, Petrol ,9000
+Honda CR-V 2.4L 4WD AT,2014,80000, Petrol ,7510
+Honda CR-V 2.4L 4WD AT,2014,79000, Petrol ,7990
+Honda CR-V 2.4L 4WD AT,2014,59000, Petrol ,10500
+Honda CR-V 2.4L 4WD AT,2014,47867, Petrol ,10350
+Honda CR-V 2.4L 4WD AT,2015,400000, Petrol ,12750
+Honda CR-V 2.4L 4WD AT,2015,74000, Petrol ,11750
+Honda CR-V 2.4L 4WD AT,2015,63000, Petrol ,12900
+Honda CR-V 2.4L 4WD AT,2015,29000, Petrol ,12950
+Honda CR-V 2.4L 4WD AT,2016,62157, Petrol ,12950
+Honda CR-V 2.4L 4WD AT,2016,40000, Petrol ,13250
+Honda CR-V 2.4L 4WD AT,2019,33000, Petrol ,24900
+Honda Jazz 1.5 SV i DTEC,2015,210532, Diesel ,4500
+Honda Jazz 1.5 SV i DTEC,2015,132349, Diesel ,4160
+Honda Jazz 1.5 SV i DTEC,2015,72900, Diesel ,5750
+Honda Jazz 1.5 SV i DTEC,2015,70000, Diesel ,6150
+Honda Jazz 1.5 SV i DTEC,2015,47091, Diesel ,3980
+Honda Jazz 1.5 SV i DTEC,2015,32495, Diesel ,6090
+Honda Jazz 1.5 SV i DTEC,2016,110000, Diesel ,5150
+Honda Jazz 1.5 SV i DTEC,2016,92000, Diesel ,6500
+Honda Jazz 1.5 SV i DTEC,2016,52456, Diesel ,5600
+Honda Jazz 1.5 SV i DTEC,2016,50000, Diesel ,4250
+Honda Jazz 1.5 SV i DTEC,2016,35000, Diesel ,6200
+Honda Jazz 1.5 SV i DTEC,2016,35000, Diesel ,6200
+Honda Jazz V,2009,118383, Petrol ,1200
+Honda Jazz V,2009,78216, Petrol ,1000
+Honda Jazz V,2009,45000, Petrol ,2250
+Honda Jazz V,2009,35958, Petrol ,2000
+Honda Jazz V,2010,235702, Petrol ,2720
+Honda Jazz V,2010,102885, Petrol ,1770
+Honda Jazz V,2010,63000, Petrol ,2400
+Honda Jazz V,2010,57788, Petrol ,1300
+Honda Jazz V,2011,76140, Petrol ,4250
+Honda Jazz V,2012,70000, Petrol ,2900
+Honda Jazz V,2012,70000, Petrol ,3500
+Honda Jazz V,2012,70000, Petrol ,2800
+Honda Jazz V,2012,65577, Petrol ,3150
+Honda Jazz V,2012,64000, Petrol ,4750
+Honda Jazz V,2012,34391, Petrol ,3900
+Honda Jazz V,2015,75611, Petrol ,5330
+Honda Jazz V,2015,71000, Petrol ,4750
+Honda Jazz V,2015,65000, Petrol ,5250
+Honda Jazz V,2015,59900, Petrol ,5650
+Honda Jazz V,2015,53217, Petrol ,4950
+Honda Jazz V,2015,52087, Petrol ,4810
+Honda Jazz V,2015,51000, Petrol ,4560
+Honda Jazz V,2015,48509, Petrol ,5850
+Honda Jazz V,2015,46000, Petrol ,5450
+Honda Jazz V,2015,45093, Petrol ,5750
+Honda Jazz V,2015,44284, Petrol ,3600
+Honda Jazz V,2015,40000, Petrol ,6500
+Honda Jazz V,2015,37326, Petrol ,5000
+Honda Jazz V,2015,37326, Petrol ,5000
+Honda Jazz V,2015,36000, Petrol ,4000
+Honda Jazz V,2015,35200, Petrol ,6250
+Honda Jazz V,2015,28714, Petrol ,5170
+Honda Jazz V,2016,170000, Petrol ,5250
+Honda Jazz V,2016,92448, Petrol ,4500
+Honda Jazz V,2016,84067, Petrol ,4500
+Honda Jazz V,2016,72926, Petrol ,5100
+Honda Jazz V,2016,68000, Petrol ,5650
+Honda Jazz V,2016,67473, Petrol ,5950
+Honda Jazz V,2016,64393, Petrol ,4800
+Honda Jazz V,2016,63548, Petrol ,4680
+Honda Jazz V,2016,52500, Petrol ,5650
+Honda Jazz V,2016,51453, Petrol ,5330
+Honda Jazz V,2016,43000, Petrol ,5300
+Honda Jazz V,2016,42000, Petrol ,3650
+Honda Jazz V,2016,40001, Petrol ,6250
+Honda Jazz V,2016,38260, Petrol ,6500
+Honda Jazz V,2016,33000, Petrol ,4950
+Honda Jazz V,2016,31480, Petrol ,6990
+Honda Jazz V,2016,28232, Petrol ,4000
+Honda Jazz V,2016,23199, Petrol ,6850
+Honda Jazz V,2017,76858, Petrol ,4900
+Honda Jazz V,2017,68011, Petrol ,7000
+Honda Jazz V,2017,66964, Petrol ,6500
+Honda Jazz V,2017,65269, Petrol ,6900
+Honda Jazz V,2017,55000, Petrol ,5600
+Honda Jazz V,2017,52000, Petrol ,6100
+Honda Jazz V,2017,42000, Petrol ,4800
+Honda Jazz V,2017,40430, Petrol ,6250
+Honda Jazz V,2017,38500, Petrol ,8000
+Honda Jazz V,2017,37000, Petrol ,6250
+Honda Jazz V,2017,36000, Petrol ,7450
+Honda Jazz V,2017,35566, Petrol ,6450
+Honda Jazz V,2017,31238, Petrol ,5000
+Honda Jazz V,2017,27000, Petrol ,5110
+Honda Jazz V,2017,25025, Petrol ,5650
+Honda Jazz V,2017,24779, Petrol ,5500
+Honda Jazz V,2017,21000, Petrol ,6900
+Honda Jazz V,2017,14453, Petrol ,6700
+Honda Jazz V,2017,14073, Petrol ,6700
+Honda Jazz V,2018,64000, Petrol ,7750
+Honda Jazz V,2018,60000, Petrol ,5500
+Honda Jazz V,2018,54000, Petrol ,6800
+Honda Jazz V,2018,45915, Petrol ,6250
+Honda Jazz V,2018,29000, Petrol ,6950
+Honda Jazz V,2018,24530, Petrol ,7600
+Honda Jazz V,2019,40000, Petrol ,5500
+Honda Jazz V,2019,32699, Petrol ,7500
+Honda Jazz V,2019,30935, Petrol ,7400
+Honda Jazz V,2019,30000, Petrol ,8650
+Honda Jazz V,2019,17782, Petrol ,7000
+Honda Mobilio S i-DTEC,2014,205546, Diesel ,2250
+Honda Mobilio S i-DTEC,2014,168039, Diesel ,5850
+Honda Mobilio S i-DTEC,2014,120000, Diesel ,4500
+Honda Mobilio S i-DTEC,2014,120000, Diesel ,3500
+Honda Mobilio S i-DTEC,2014,116734, Diesel ,5500
+Honda Mobilio S i-DTEC,2014,115181, Diesel ,5270
+Honda Mobilio S i-DTEC,2014,90962, Diesel ,3500
+Honda Mobilio S i-DTEC,2014,84504, Diesel ,3000
+Honda Mobilio S i-DTEC,2014,78000, Diesel ,6250
+Honda Mobilio S i-DTEC,2015,120000, Diesel ,5000
+Honda Mobilio S i-DTEC,2015,85000, Diesel ,4950
+Honda Mobilio S i-DTEC,2015,80000, Diesel ,4500
+Honda Mobilio S i-DTEC,2015,80000, Diesel ,4490
+Honda WR-V i-DTEC VX,2017,106401, Diesel ,5250
+Honda WR-V i-DTEC VX,2017,97526, Diesel ,6350
+Honda WR-V i-DTEC VX,2017,89861, Diesel ,7250
+Honda WR-V i-DTEC VX,2017,88600, Diesel ,7600
+Honda WR-V i-DTEC VX,2017,72718, Diesel ,5000
+Honda WR-V i-DTEC VX,2017,59835, Diesel ,4700
+Honda WR-V i-DTEC VX,2017,50000, Diesel ,7500
+Honda WR-V i-DTEC VX,2017,43741, Diesel ,6500
+Honda WR-V i-DTEC VX,2018,110000, Diesel ,7500
+Honda WR-V i-DTEC VX,2018,87482, Diesel ,7500
+Honda WR-V i-DTEC VX,2018,80286, Diesel ,6700
+Honda WR-V i-DTEC VX,2018,70000, Diesel ,7500
+Honda WR-V i-DTEC VX,2018,54000, Diesel ,8250
+Honda WR-V i-DTEC VX,2018,44255, Diesel ,6200
+Honda WR-V i-DTEC VX,2018,40000, Diesel ,7150
+Honda WR-V i-DTEC VX,2019,120000, Diesel ,6500
+Honda WR-V i-DTEC VX,2019,110000, Diesel ,9150
+Honda WR-V i-DTEC VX,2019,80000, Diesel ,10100
+Honda WR-V i-DTEC VX,2020,33174, Diesel ,9200
+Honda WR-V i-VTEC VX,2014,81667, Petrol ,4500
+Honda WR-V i-VTEC VX,2014,67683, Petrol ,3500
+Honda WR-V i-VTEC VX,2014,42000, Petrol ,4950
+Honda WR-V i-VTEC VX,2014,8696, Petrol ,4000
+Honda WR-V i-VTEC VX,2017,88695, Petrol ,7480
+Honda WR-V i-VTEC VX,2017,70336, Petrol ,5860
+Honda WR-V i-VTEC VX,2017,28383, Petrol ,7990
+Honda WR-V i-VTEC VX,2017,25000, Petrol ,5980
+Honda WR-V i-VTEC VX,2017,20619, Petrol ,6000
+Honda WR-V i-VTEC VX,2017,19848, Petrol ,7000
+Honda WR-V i-VTEC VX,2017,17000, Petrol ,6450
+Honda WR-V i-VTEC VX,2017,15711, Petrol ,6250
+Honda WR-V i-VTEC VX,2017,15500, Petrol ,7500
+Honda WR-V i-VTEC VX,2018,43800, Petrol ,7450
+Honda WR-V i-VTEC VX,2018,34016, Petrol ,8090
+Honda WR-V i-VTEC VX,2018,33826, Petrol ,6480
+Honda WR-V i-VTEC VX,2018,32512, Petrol ,8200
+Honda WR-V i-VTEC VX,2018,28000, Petrol ,8250
+Honda WR-V i-VTEC VX,2018,25000, Petrol ,7450
+Honda WR-V i-VTEC VX,2019,53862, Petrol ,7400
+Honda WR-V i-VTEC VX,2019,30000, Petrol ,7500
+Honda WR-V i-VTEC VX,2019,28000, Petrol ,8650
+Honda WR-V i-VTEC VX,2020,15000, Petrol ,9250
+Honda WR-V i-VTEC VX,2021,30000, Petrol ,9500
+Honda WR-V i-VTEC VX,2021,16748, Petrol ,8140
+Honda WR-V i-VTEC VX,2022,10000, Petrol ,10440
